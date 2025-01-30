@@ -8,9 +8,8 @@
 
 ### **👨‍💻 About Me**
 - 🚀 Passionate **Full Stack Developer**
-- 🔥 Open-source enthusiast & contributor
 - 🎯 Focused on **MERN Stack & Cloud Technologies**
-- 📚 Currently learning **TypeScript & Next.js**
+- 📚 Currently learning **DSA And New Technologies**
 - ⚡ Fun fact: **I love solving coding challenges!**  
 
 ---
