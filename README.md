@@ -31,7 +31,7 @@
   <a href="https://linkedin.com/in/akash-gupta-06b0a6280" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="malito:ag44834@gmail.com">
+  <a href="mailto:ag44834@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://akash-cq.github.io/Portfoilio/">
