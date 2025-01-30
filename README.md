@@ -47,3 +47,8 @@
 ---
 
 ⭐ **Star this repository** if you like it!  
+<h1>Help me to buy me a coffee</h1>
+<a href="https://buymeacoffee.com/akash_cq">buy me coffee</a>
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/168327561/408127981-1965b306-1f3b-444a-b0e7-1a1ea5a5b01e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250130T125642Z&X-Amz-Expires=300&X-Amz-Signature=8ff01738eea8fb8fc7663ee9c6eb8ee91a0787ae66f3eb8f050a67a7d48dd915&X-Amz-SignedHeaders=host" width="200">
+</p>
