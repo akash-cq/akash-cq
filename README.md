@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Akash Gupta</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B93E&width=435&lines=Full+Stack+Developer;JavaScript+%7C+Node.js+%7C+React;Passionate+about+Open-Source+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B93E&width=435&lines=Full+Stack+Developer;JavaScript+%7C+Node.js+%7C+React;Passionate+about+learn+new+Technology+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
