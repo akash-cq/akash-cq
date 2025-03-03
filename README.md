@@ -10,7 +10,7 @@
 - 🚀 Passionate **Full Stack Developer**
 - 🎯 Focused on **MERN Stack & Cloud Technologies**
 - 📚 Currently learning **DSA And New Technologies**
-- ⚡ Fun fact: **I love solving coding challenges!**  
+- ⚡ Fun fact: **Coffee give me power for debugging!**  
 
 ---
 
