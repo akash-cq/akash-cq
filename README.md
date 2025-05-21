@@ -13,7 +13,7 @@
 - 💻 Passionate **Full Stack Developer** focused on **MERN Stack & Cloud Technologies**  
 - 📚 Currently learning **DSA & System Design**  
 - 🏆 **170+ LeetCode problems solved** (Arrays, Strings, HashMaps, Trees, Stacks)  
-- 🎯 **27+ Projects** (MERN Stack, DSA-based, and Front-end) available on **[GitHub](https://github.com/akash-cq/)**  
+- 🎯 **27+ Projects** (MERN Stack, DSA-based, and Front-end)**  
 - ⚡ Fun Fact: **"Coffee keeps my debugging skills sharp!" ☕🚀**  
 
 ---
